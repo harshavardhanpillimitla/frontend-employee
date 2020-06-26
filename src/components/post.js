@@ -17,7 +17,7 @@ class Post extends Component{
                 <div className="row">
                     <div className="col-6">
                         
-                        <img src={picture}  className="container"/>
+                        <img src={picture}  alt="image" className="container"/>
 
                     </div>
                     <div className="col-6">
